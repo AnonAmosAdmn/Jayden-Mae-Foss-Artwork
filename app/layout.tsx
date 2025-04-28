@@ -11,7 +11,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="en">
       <body className="min-h-screen flex flex-col">
         <header className="p-6 bg-black-700 text-white text-3xl font-bold shadow-lg">
-          Jayden Mae Foss Artworks
+          Artwork Portfolio
         </header>
         <main className="flex-1 p-8 bg-white rounded-t-3xl shadow-xl">
           {children}
